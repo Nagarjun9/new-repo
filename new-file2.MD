@@ -12,3 +12,10 @@ if (today==sunday){
 else {
     print go to school
 }
+today==i am going school 
+if (today==rain){
+    print don't go to school
+}
+else {
+    print go to school
+}
