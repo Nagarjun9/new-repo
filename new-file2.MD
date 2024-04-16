@@ -19,3 +19,4 @@ if (today==rain){
 else {
     print go to school
 }
+this code need to push in git 
